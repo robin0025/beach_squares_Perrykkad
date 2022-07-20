@@ -7,6 +7,7 @@ Dr. J. E. Robinson & Dr. K. Perrykkad
 - online experiment code (psychopy and psychoJS) code adapted and developed based on matlab code for eye tracking experiment [2] developed by K Perrykkad.
 
 ## Note
+- .mp4 video shows an example experiment trial. Note that a cursor (crosshairs) would not be present in a real experimental trial. It is shown here only for context.
 - PsychoJS version should be set to v2020.2 for proper running of the task.
 - In our experience the task has a high rejection rate due to several factors such as subjects' internet connections, please read the main citation[1] for detail on our rejection rates and criteria. Feel free to suggest optimisations that might make, for example, the frame rate more consisent.
 
