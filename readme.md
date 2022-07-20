@@ -3,7 +3,7 @@ This task was originally uploaded to gitlab for use through the Psychopy Pavlovi
 
 ## Code Author
 Dr. J. E. Robinson & Dr. K. Perrykkad
-- online experiment code (psychopy and psychoJS) code adapted and developed based on matlab code for eye tracking experiment [2] developed by K Perrykkad.
+- online experiment code (psychopy and psychoJS) code adapted and developed based on matlab code for eye tracking experiment [1] developed by K Perrykkad.
 
 ## Note
 - PsychoJS version should be set to v2020.2 for proper running of the task.
