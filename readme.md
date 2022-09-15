@@ -15,7 +15,8 @@ Dr. J. E. Robinson & Dr. K. Perrykkad
 If you use this task please contribute your variant/versions to a new branch.
 
 ## Task Video
-![](https://raw.githubusercontent.com/robin0025/beach_squares_Perrykkad/main/PBR_Beach_cursorIncuded.mp4)
+https://user-images.githubusercontent.com/60278296/190313852-b88fde30-9fbe-4c48-93a8-e923387a8db5.mp4
+
 
 ## Citations
 If you use this repository to build a variant/versions for any subsequent publication please cite the following papers:
@@ -23,3 +24,6 @@ If you use this repository to build a variant/versions for any subsequent public
 1) Perrykkad, K., Robinson, J. E., & Hohwy, J. (2021). Foraging for the Self: Environment selection for agency inference. Psychonomic Bulletin & Review.
 
 2) Perrykkad, K., Lawson, R. P., Jamadar, S., & Hohwy, J. (2021). The effect of uncertainty on prediction error in the action perception loop. Cognition, 210, 104598.
+
+https://user-images.githubusercontent.com/60278296/190313810-1b7699fe-f05f-44df-ad93-d15e31aa04ba.mp4
+
