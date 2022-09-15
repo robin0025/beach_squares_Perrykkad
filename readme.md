@@ -15,7 +15,7 @@ Dr. J. E. Robinson & Dr. K. Perrykkad
 If you use this task please contribute your variant/versions to a new branch.
 
 ## Task Video
-https://raw.githubusercontent.com/robin0025/beach_squares_Perrykkad/main/PBR_Beach_cursorIncuded.mp4
+![](https://raw.githubusercontent.com/robin0025/beach_squares_Perrykkad/main/PBR_Beach_cursorIncuded.mp4)
 
 ## Citations
 If you use this repository to build a variant/versions for any subsequent publication please cite the following papers:
