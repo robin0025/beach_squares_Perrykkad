@@ -1,6 +1,8 @@
 # BEACH TASK
 This task was originally uploaded to gitlab for use through the Psychopy Pavlovia online study system as a subcomponent of a self/agency study [1].
 Here participants have to work out which of 4 squares are following their movements.
+# Task Video
+https://user-images.githubusercontent.com/60278296/190313852-b88fde30-9fbe-4c48-93a8-e923387a8db5.mp4
 
 ## Code Author(s)
 Dr. J. E. Robinson & Dr. K. Perrykkad
@@ -13,10 +15,6 @@ Dr. J. E. Robinson & Dr. K. Perrykkad
 
 ## Use policy
 If you use this task please contribute your variant/versions to a new branch.
-
-## Task Video
-https://user-images.githubusercontent.com/60278296/190313852-b88fde30-9fbe-4c48-93a8-e923387a8db5.mp4
-
 
 ## Citations
 If you use this repository to build a variant/versions for any subsequent publication please cite the following papers:
