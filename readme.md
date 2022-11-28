@@ -4,6 +4,10 @@ Here participants have to work out which of 4 squares are following their moveme
 ## Task Video
 https://user-images.githubusercontent.com/60278296/190313852-b88fde30-9fbe-4c48-93a8-e923387a8db5.mp4
 
+## Analysis Details
+For scripts relating to the analysis of data produced by this task in the paper [1] go to: 
+- https://github.com/kperrykkad/beach-task
+
 ## Code Author(s)
 Dr. J. E. Robinson & Dr. K. Perrykkad
 - online experiment code (psychopy and psychoJS) code translate, adapted and developed based on matlab code for eye tracking experiment [2] developed by K Perrykkad.
